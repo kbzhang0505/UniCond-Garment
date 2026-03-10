@@ -1,6 +1,8 @@
 # UniCond-Garment
 UniCond-Garment: Multimodal-Conditioned Diffusion for Fine-Grained Controllable Garment Image Generation
-The overall framework
+
+# The overall framework
+
 <img width="3857" height="2046" alt="fig1" src="https://github.com/user-attachments/assets/3fa0226c-f25c-443e-b9be-b4f31fdd2cf4" />
 
 # Qualitive results
